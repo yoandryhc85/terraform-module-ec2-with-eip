@@ -1,0 +1,8 @@
+produccion/.terraform
+produccion/terraform.tfstate.backup
+testing/terraform.tfstate.backup
+testing/.terraform
+.terraform/
+terraform.tfstate*
+/home/yhernandez/Terraform/modulos/ejemplo1/entornos/anstride/produccion/terraform.tfstate
+/home/yhernandez/Terraform/modulos/ejemplo1/entornos/anstride/testing/terraform.tfstate
